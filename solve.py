@@ -92,3 +92,5 @@ if(0 == 0)
     f98 = 0
     f99 = 0
 
+if(f11 + f12 + f13 + f14 + f15 + f16 + f17 + f18 == 45):
+    print("first row correct")
